@@ -1,8 +1,11 @@
-# React + Vite
+## Lifting State in React Lab
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To get started, clone this repository at https://github.com/AlejandraValdivia/lifting-state-in-react-lab and run `npm install` and `npm run dev`.
 
-Currently, two official plugins are available:
+Go to http://localhost:5173 to see your first React application and create your perfect burger with your favorite ingredients clicking on the `+` button and if you want to remove an ingredient click on the `X`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![alt text](src/assets/hamburger-ingredients-react.jpg "Hamburger Ingredients React")
+
+
+
+
